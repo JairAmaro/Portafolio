@@ -1,8 +1,6 @@
 
 ![image](https://github.com/JairAmaro/Portafolio/assets/122000520/0bb8b891-65d1-421b-ae27-21dc3f550f82)
 
-Portafolio explicar los que contiene
-
 # Portafolio de Proyectos
 
 Bienvenido a mi portafolio de GitHub. Aquí encontrarás proyectos que he desarrollado utilizando diversos conjuntos de datos para demostrar mis habilidades en análisis y ciencia de datos. Cada proyecto está contenido en su propia carpeta, a la cual puedes acceder mediante los enlaces proporcionados a continuación.
