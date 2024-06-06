@@ -7,13 +7,22 @@ Bienvenido a mi portafolio de GitHub. Aquí encontrarás proyectos que he desarr
 
 ## Proyectos
 
-### [London Bikes](https://github.com/JairAmaro/Portafolio/blob/main/London%20bike%20shariong/London.ipynb)
-Este proyecto analiza datos de renta de bicicletas obtenidos de Kaggle, solo estas datos no son 'Reales' posiblemnet sean simulados para el analisis de datos.
-se realizo 
-* Análisis exploratorio de datos 
-* Visualización de datos (gráficos y tableu pulic) 
-* Modelado de datos (Aui el modelo que use)
-* Conlcusion, soluciones para un posible cliente y explicacion de los resultados obtenidos
+### [London Bikes](https://github.com/JairAmaro/Portafolio/blob/main/London%20bike%20sharing/London.ipynb)
+Este proyecto analiza datos de renta de bicicletas en Londres. El objetivo es predecir la demanda de bicicletas en función de las condiciones climáticas y otros factores. El proyecto incluye:
+
+* Análisis exploratorio de datos profundo (EDA)
+* Visualización de datos (gráficos y power BI) 
+* Modelado de datos (XGBoost vs LSMT)
+* Conlcusion, soluciones para un posible cliente y explicacion de los resultados obtenidos enfocado en negocio o modelo de negocio.
+
+#### Resultados para el modelo XGBoost y LSTM (London Bikes)
+
+| Modelo  | MSE         | RMSE       | MAE        | R²       | TP   | FP  | TN   | FN  | Precisión | Recall   | F1-Score  | Efectividad del Modelo |
+|---------|-------------|------------|------------|----------|------|-----|------|-----|-----------|----------|-----------|------------------------|
+| XGBoost | 21617.876079| 147.030188 | 88.539286  | 0.972575 | 1341 | 76  | 1882 | 50  | 0.946366  | 0.964055 | 0.955128  | Buena                  |
+| LSTM    | 96336.302080| 310.380898 | 182.279860 | 0.870985 | 1309 | 120 | 1769 | 146 | 0.916025  | 0.899656 | 0.907767  | Buena                  |
+
+La imagen del dashboard de Power BI se encuentra en el ipynb del proyecto
 
 ---
 ### [Datos del INEGI (En proceso)](/ruta/a/la/carpeta/de/inegi)
