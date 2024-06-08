@@ -25,8 +25,20 @@ Este proyecto analiza datos de renta de bicicletas en Londres. El objetivo es pr
 La imagen del dashboard de Power BI se encuentra en el ipynb del proyecto
 
 ---
-### [Datos del INEGI (En proceso)](/ruta/a/la/carpeta/de/inegi)
+### [Datos del INEGI](https://github.com/JairAmaro/Portafolio/tree/main/INEGI)
 Estudio basado en datos proporcionados por el INEGI
+
+[Metodología del Análisis de Comercios en Morelos:](https://github.com/JairAmaro/Portafolio/blob/main/INEGI/INEGI_Morelos_estratos.ipynb)
+En este proyecto se analizan los datos de comercios en el estado de Morelos, México. ver que comercios registrados en el INEGI son los mas comunes para este estado de la republica
+
+El objetivo es identificar de manera geo-espacial los comercios más comunes en el estado de Morelos y asi vez segmentar los datos por estrato, colonia y tipo de vialidad
+
+* Clustering con K-Modes (Agrupar datos categóricos (Clase_actividad, Estrato, Tipo_vialidad, Colonia))
+* Visualización Geoespacial -- Uso: Folium para mapas interactivos
+* Conclusiones de Negocio  -- Identificar oportunidades estratégicas para ubicaciones de comercios, fomento a pequeños negocios y diversificación
+* Dashboard de Power BI -- Visualización de los estratos por colonia, municipio y localidad conforme a Mayoreo, Menudeo, Restaurante y otros 
+
+(En proceso) Realizare mas, pero no son datas sencillas por el tamaño, pero esta en proceso un anilsis unificado por lo cual a futuro se podra vizulizar
 
 ---
 ### [Datos de BANXICO (En proceso)](/ruta/a/la/carpeta/de/banxico)
