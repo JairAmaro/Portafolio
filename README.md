@@ -17,10 +17,10 @@ Este proyecto analiza datos de renta de bicicletas en Londres. El objetivo es pr
 
 #### Resultados para el modelo XGBoost y LSTM (London Bikes)
 
-| Modelo  | MSE         | RMSE       | MAE        | R²       | TP   | FP  | TN   | FN  | Precisión | Recall   | F1-Score  | Efectividad del Modelo |
-|---------|-------------|------------|------------|----------|------|-----|------|-----|-----------|----------|-----------|------------------------|
-| XGBoost | 21617.876079| 147.030188 | 88.539286  | 0.972575 | 1341 | 76  | 1882 | 50  | 0.946366  | 0.964055 | 0.955128  | Buena                  |
-| LSTM    | 96336.302080| 310.380898 | 182.279860 | 0.870985 | 1309 | 120 | 1769 | 146 | 0.916025  | 0.899656 | 0.907767  | Buena                  |
+| Modelo  | MSE         | RMSE       | MAE        | R²       | TP   | FP  | TN   | FN  | Precisión | Recall   | Efectividad del Modelo |
+|---------|-------------|------------|------------|----------|------|-----|------|-----|-----------|----------|------------------------|
+| XGBoost | 21617.876079| 147.030188 | 88.539286  | 0.972575 | 1341 | 76  | 1882 | 50  | 0.946366  | 0.964055 | Buena                  |
+| LSTM    | 96336.302080| 310.380898 | 182.279860 | 0.870985 | 1309 | 120 | 1769 | 146 | 0.916025  | 0.899656 | Buena                  |
 
 La imagen del dashboard de Power BI se encuentra en el ipynb del proyecto
 
@@ -41,18 +41,23 @@ El objetivo es identificar de manera geo-espacial los comercios más comunes en 
 (En proceso) Realizare mas, pero no son datas sencillas por el tamaño, pero esta en proceso un anilsis unificado por lo cual a futuro se podra vizulizar
 
 ---
-### [Datos de BANXICO (En proceso)](/ruta/a/la/carpeta/de/banxico)
+### [Datos de BANXICO (En proceso)](https://github.com/JairAmaro/Portafolio/blob/main/BANXICO/Banxico.ipynb)
 Análisis de los datos económicos de México proporcionados por el Banco de México. Este proyecto se enfoca en entender las tendencias económicas a través de los datos históricos de BANXICO.
 
 ---
-### [Google Cloud Platform (GCP) (En proceso)](/ruta/a/la/carpeta/de/google-market-gcp)
-Utilización de datos de Google Cloud Platform para explorar distintos aspectos de servicios en la nube y tecnologías emergentes.
+### [Google Cloud Platform (GCP)](https://github.com/JairAmaro/Portafolio/blob/main/Taxi%20Chicago%20GCP/Taxi_chicago.ipynb)
+Viajes en taxi para 2016, informados a la ciudad de Chicago, data obtenida del Marketplace de GCP para realizar una tabla analítica de datos en BI
+
+* Limpieza de datos y solucion a nivel cliente poara tener omologado los datos
+* Tabla analítica de datos (TAD) en un dashboard de Power BI
+* Moldelo ML (En proceso) 
 
 ---
 ## Contacto
 Si tienes alguna pregunta o deseas discutir estos proyectos más a fondo, no dudes en contactarme, gracias por visitar mi portafolio.
 
+
+[LinkedIn](www.linkedin.com/in/oscar-amaro)
 <!-- * [Correo electrónico](mailto:tucorreo@example.com)
-* [LinkedIn](https://www.linkedin.com/in/tulinkedin)
 * [Twitter](https://twitter.com/tutwitter)  -->
 
